@@ -37,13 +37,6 @@
   <version>2.0.3</version>
 <type>pom</type>
 </dependency>
-
-    <dependency>
-      <groupId>org.scala-lang</groupId>
-      <artifactId>scala-compiler</artifactId>
-      <version>${scala.version}</version>
-      <scope>test</scope>
-    </dependency>
   </dependencies>
    <build>
         <sourceDirectory>src/main/scala</sourceDirectory>
